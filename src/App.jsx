@@ -14,6 +14,9 @@ export default function App() {
     <>
       <div className="container">
         <div>
+          <h1 className="m-10 text-center text-lg">
+            Nov naslov za našo aplikacijo
+          </h1>
           <Tabs defaultValue="zivali">
             <TabsList>
               <TabsTrigger value="zivali">Živali</TabsTrigger>
